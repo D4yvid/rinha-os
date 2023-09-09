@@ -1,0 +1,14 @@
+# Object files
+*.o
+*.So
+
+# Build directories
+kernel/obj
+boot/obj
+
+# Image files
+*.iso
+*.img
+*.xz
+*.zip
+*.disk
